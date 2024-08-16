@@ -11,3 +11,4 @@ git add .
 git commit -m "cai gi cung duoc"
 git push origin main
 ```
+# video hướng dẫn: https://youtu.be/crpwJ3SKtFg
