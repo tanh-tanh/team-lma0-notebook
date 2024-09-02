@@ -29,7 +29,7 @@ git push origin main
 - [ ] Kruskal
 - [ ] Prim
 # CTDL:
-- [ ] Point Update Range Sum 
+- [x] Point Update Range Sum 
     - [x] Segment Tree 
     - [x] Binary Indexed Tree(Fenwick Tree) 
 - [ ] Big Integer
