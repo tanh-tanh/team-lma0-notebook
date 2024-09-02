@@ -23,16 +23,15 @@ git push origin main
 - [ ] DSU
 - [ ] topo sort
 - [ ] đồ thị trọng số âm
-- [ ] Bellman- [ ]Ford
+- [ ] Bellman- Ford
 - [ ] Dijkstra
 - [ ] Floyd Warshall
 - [ ] Kruskal
 - [ ] Prim
 # CTDL:
-- [ ] Point Update Range Sum 
+- [x] Point Update Range Sum 
     - [x] Segment Tree 
-    - [ ] Binary Indexed Tree(Fenwick Tree) 
-    - [ ] Order Statistic Tree
+    - [x] Binary Indexed Tree(Fenwick Tree) 
 - [ ] Big Integer
 # Cây:
 - [ ] chu trình euler
