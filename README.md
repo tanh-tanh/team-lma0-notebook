@@ -23,7 +23,7 @@ git push origin main
 - [ ] DSU
 - [ ] topo sort
 - [ ] đồ thị trọng số âm
-- [ ] Bellman- [ ]Ford
+- [ ] Bellman- Ford
 - [ ] Dijkstra
 - [ ] Floyd Warshall
 - [ ] Kruskal
