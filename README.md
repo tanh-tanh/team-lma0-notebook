@@ -21,13 +21,13 @@ git push origin main
 # Đồ Thị:
 - [ ] Đường ngắn nhất (có trọng số và không)
 - [ ] DSU
-- [ ] topo sort
+- [x] topo sort
 - [ ] đồ thị trọng số âm
-- [ ] Bellman- Ford
+- [x] Bellman- Ford
 - [ ] Dijkstra
-- [ ] Floyd Warshall
-- [ ] Kruskal
-- [ ] Prim
+- [x] Floyd Warshall
+- [x] Kruskal
+- [x] Prim
 # CTDL:
 - [x] Point Update Range Sum 
     - [x] Segment Tree 
