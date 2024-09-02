@@ -31,8 +31,7 @@ git push origin main
 # CTDL:
 - [ ] Point Update Range Sum 
     - [x] Segment Tree 
-    - [ ] Binary Indexed Tree(Fenwick Tree) 
-    - [ ] Order Statistic Tree
+    - [x] Binary Indexed Tree(Fenwick Tree) 
 - [ ] Big Integer
 # Cây:
 - [ ] chu trình euler
