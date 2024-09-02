@@ -29,7 +29,7 @@ template <class T> class BIT {
         for (; ind > 0; ind -= ind & -ind) { total += bit[ind]; }
         return total;
     }
-    //tim min p sao cho sum(p) >= sum neu ko co thi kq = n-1
+    //tim min p sao cho sum(p) >= sum neu ko co thi kq = n
     int lower_bound(T sum) {
         int highest_one_bit = 1;
         while (highest_one_bit << 1 <= bit.size())
