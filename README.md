@@ -32,7 +32,7 @@ git push origin main
 - [x] Point Update Range Sum 
     - [x] Segment Tree 
     - [x] Binary Indexed Tree(Fenwick Tree) 
-- [ ] Big Integer
+- [x] Big Integer
 # Cây:
 - [ ] chu trình euler
 - [ ] Dp trên cây (yêu cần biết dp cơ bản)
